@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning **Python**
 
 #**Tools**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="400" 
+     height="400" />
 
 <!--
 **uchuvatova/uchuvatova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
