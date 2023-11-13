@@ -7,7 +7,9 @@
 ### **Tools**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" 
+     height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="50" 
      height="50" />
+
 
 <!--
 **uchuvatova/uchuvatova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
