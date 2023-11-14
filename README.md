@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Ira</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"/></h1>
+<h1 align="center">Hi there, I'm Ira!</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50" 
+     height="50"/></h1>
 
 <h3 align="center">Manual QA. I’m currently learning Python</h3>
 
