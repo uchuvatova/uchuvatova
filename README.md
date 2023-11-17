@@ -1,9 +1,11 @@
-<h1 align="center">Hi there, I'm Ira!</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50" 
+<h1>Hi there, I'm Ira!</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50" 
      height="50"/></h1>
 
-<h3 align="center">Manual QA. I’m currently learning Python</h3>
+<p><em>QA Engineer at <a href="https://appbazar.am/">AppBazar
 
-### **Tools**
+[![Telegram: irauchuvatova](https://img.shields.io/badge/-irauchuvatova-gray?style=flat-square&logo=Telegram&link=https://t.me/irauchuvatova)](https://t.me/irauchuvatova)
+
+<h4>I’m currently learning Python</h4>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="50" 
      height="50"/>
