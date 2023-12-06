@@ -1,11 +1,11 @@
-<h1>Hi there, I'm Ira!</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50" 
+<h1>Привет, я Ира!</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50" 
      height="50"/></h1>
 
-<p><em>QA Engineer at <a target="_blank" href="https://appbazar.am/">AppBazar</a>
+<p><em>Manual QA в <a target="_blank" href="https://appbazar.am/">AppBazar</a>
 
-[![Telegram: irauchuvatova](https://img.shields.io/badge/-irauchuvatova-gray?style=flat-square&logo=Telegram&link=https://t.me/irauchuvatova)](https://t.me/irauchuvatova)
+Я в Telegram: [![Telegram: irauchuvatova](https://img.shields.io/badge/-irauchuvatova-gray?style=flat-square&logo=Telegram&link=https://t.me/irauchuvatova)](https://t.me/irauchuvatova)
 
-<h4>I’m currently learning Python</h4>
+<h4>В настоящее время изучаю Python и хочу писать стабильные и красивые автотесты</h4>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="50" 
      height="50"/>
