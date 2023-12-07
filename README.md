@@ -1,4 +1,4 @@
-<h1>Привет, я Ира!</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50" 
+<h1><em>Привет, я Ира!</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50" 
      height="50"/></h1>
 
 <p><em>Manual QA в <a href="https://appbazar.am/" target="_blank">AppBazar</a>
