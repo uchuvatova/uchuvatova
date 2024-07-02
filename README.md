@@ -9,6 +9,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="50" 
      height="50"/>
+<img src="https://playwright.dev/python/img/playwright-logo.svg" width="50" 
+     height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain-wordmark.svg"
  width="50" 
      height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain-wordmark.svg" width="50" 
