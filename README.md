@@ -1,7 +1,7 @@
 <h1><em>Привет, я Ира!</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50" 
      height="50"/></h1>
 
-<p><em>QA в <a href="https://appbazar.am/" target="_blank">AppBazar</a>
+<p><em>QA в <a href="https://cashback.mts.ru/" target="_blank">МТС Cashback</a>
 
 Я в Telegram: [![Telegram: irauchuvatova](https://img.shields.io/badge/-irauchuvatova-gray?style=flat-square&logo=Telegram&link=https://t.me/irauchuvatova)](https://t.me/irauchuvatova)
 
