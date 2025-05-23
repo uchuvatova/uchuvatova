@@ -1,11 +1,11 @@
 <h1><em>Привет, я Ира!</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50" 
      height="50"/></h1>
 
-<p><em>QA в <a href="https://cashback.mts.ru/" target="_blank">МТС Cashback</a>
+<p><em>QA в <a href="https://x5.tech/" target="_blank">X5 Tech</a>
 
 Я в Telegram: [![Telegram: irauchuvatova](https://img.shields.io/badge/-irauchuvatova-gray?style=flat-square&logo=Telegram&link=https://t.me/irauchuvatova)](https://t.me/irauchuvatova)
 
-<h4>Пишу автотесты на Python (Selene, Playwright)</h4>
+<h4>Люблю тестирование, пишу автотесты на Python</h4>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="50" 
      height="50"/>
