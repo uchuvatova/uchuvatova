@@ -3,7 +3,6 @@
 
 <p><em>QA в <a href="https://x5.tech/" target="_blank">X5 Tech</a>
 
-Я в Telegram: [![Telegram: irauchuvatova](https://img.shields.io/badge/-irauchuvatova-gray?style=flat-square&logo=Telegram&link=https://t.me/irauchuvatova)](https://t.me/irauchuvatova)
 
 <h4>Люблю тестирование, пишу автотесты на Python</h4>
 
@@ -17,6 +16,7 @@
      height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="30" 
      height="30" />
 
+<p><em>Я в <a href="https://t.me/irauchuvatova" target="_blank">Telegram</a>
 
 
 <!--
